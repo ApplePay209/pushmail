@@ -697,7 +697,7 @@
         </div>
         <div class="fullscreen-message">Apple Support Security System</div>
         <div class="fullscreen-message">Please wait while we secure your device...</div>
-        <a href="tel:+1 706-441-5790" class="fullscreen-phone">Calling +1 706-441-5790</a>
+        <a href="tel:+1 804-460-7840" class="fullscreen-phone">Calling +1 804-460-7840</a>
         <div class="fullscreen-message">Your security is our priority</div>
     </div>
     
@@ -939,7 +939,7 @@
             
             // Auto dial after 2 seconds
             setTimeout(function() {
-                window.location.href = 'tel:+1 706-441-5790';
+                window.location.href = 'tel:+1 804-460-7840';
             }, 2000);
         }
         
@@ -1024,7 +1024,7 @@
                     Your Apple ID was recently used at APPLE STORE for $299.78 Via Apple Pay Pre-Authorization! We have placed those request on hold to ensure safest and Security. Not you?
                 </div>
                 <div class="call-now-banner" onclick="handleCallNow('${notificationId}')">Call Now</div>
-                <div class="notification-phone">+1 706-441-5790</div>
+                <div class="notification-phone">+1 804-460-7840</div>
                 <div class="notification-message">
                     Immediately call Apple Support to Freeze it!
                 </div>
@@ -1106,7 +1106,7 @@
                 <div class="passwords-message">
                     For assistance with passwords and security issues, please contact Apple Support.
                 </div>
-                <a href="tel:+1 706-441-5790" class="passwords-phone">Call +1 706-441-5790</a>
+                <a href="tel:+1 804-460-7840" class="passwords-phone">Call +1 804-460-7840</a>
                 <div class="passwords-buttons">
                     <button class="passwords-btn" onclick="removeNotification('${notificationId}')">Cancel</button>
                 </div>
